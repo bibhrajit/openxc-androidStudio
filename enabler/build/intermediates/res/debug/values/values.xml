@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/bhalder/AndroidStudioProjects/openxc-androidStudio/enabler/res/values/diag_request_buses.xml -->
+    <eat-comment/>
+    <string-array name="buses_array">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <!-- From: file:/C:/Users/bhalder/AndroidStudioProjects/openxc-androidStudio/enabler/res/values/vehicle_interfaces.xml -->
+    <eat-comment/>
+    <string-array name="vehicle_interface_type_aliases">
+        <item>@string/bluetooth_interface_option_value</item>
+        <item>@string/usb_interface_option_value</item>
+        <item>@string/network_interface_option_value</item>
+        <item>@string/trace_interface_option_value</item>
+        <item>@string/disabled_interface_option_value</item>
+    </string-array>
+    <string-array name="vehicle_interface_types">
+        <item>@string/bluetooth_interface_option</item>
+        <item>@string/usb_interface_option</item>
+        <item>@string/network_interface_option</item>
+        <item>@string/trace_interface_option</item>
+        <item>@string/disabled_interface_option</item>
+    </string-array>
+    <!-- From: file:/C:/Users/bhalder/AndroidStudioProjects/openxc-androidStudio/enabler/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="about_preferences">About</string>
+    <string name="about_summary">About OpenXC</string>
+    <!-- From: file:/C:/Users/bhalder/AndroidStudioProjects/openxc-androidStudio/enabler/build/intermediates/exploded-aar/openxc-androidStudio/openxc/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <string name="accelerator_pedal_position_label">
+        Accelerator Pedal
+    </string>
+    <!-- From: file:/C:/Users/bhalder/AndroidStudioProjects/openxc-androidStudio/enabler/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="active_connections">Active Connections</string>
+    <string name="app_name">OpenXC Enabler</string>
+    <string name="application_version_key">application_version</string>
+    <string name="application_version_summary">Version Number</string>
+    <string name="application_version_title">Version</string>
+    <!-- From: file:/C:/Users/bhalder/AndroidStudioProjects/openxc-androidStudio/enabler/res/values/vehicle_interfaces.xml -->
+    <eat-comment/>
+    <string name="bluetooth_interface_option">Bluetooth</string>
+    <string name="bluetooth_interface_option_value">bluetooth</string>
+    <!-- From: file:/C:/Users/bhalder/AndroidStudioProjects/openxc-androidStudio/enabler/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="bluetooth_mac_automatic_option">Automatically detect</string>
+    <string name="bluetooth_mac_automatic_summary">Automatically connect to paired OpenXC-VI device</string>
+    <!-- From: file:/C:/Users/bhalder/AndroidStudioProjects/openxc-androidStudio/enabler/build/intermediates/exploded-aar/openxc-androidStudio/openxc/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <string name="bluetooth_mac_key">bluetooth_mac</string>
+    <!-- From: file:/C:/Users/bhalder/AndroidStudioProjects/openxc-androidStudio/enabler/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="bluetooth_mac_title">Bluetooth device address</string>
+    <!-- From: file:/C:/Users/bhalder/AndroidStudioProjects/openxc-androidStudio/enabler/build/intermediates/exploded-aar/openxc-androidStudio/openxc/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <string name="bluetooth_polling_key">bluetooth_polling</string>
+    <!-- From: file:/C:/Users/bhalder/AndroidStudioProjects/openxc-androidStudio/enabler/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="bluetooth_polling_summary">To save battery life, disable this if your VI can act as a Bluetooth master</string>
+    <string name="bluetooth_polling_title">Use background polling to detect a BT VI</string>
+    <string name="bluetooth_search_button">Search for Bluetooth VI</string>
+    <string name="bluetooth_settings">Bluetooth</string>
+    <!-- From: file:/C:/Users/bhalder/AndroidStudioProjects/openxc-androidStudio/enabler/build/intermediates/exploded-aar/openxc-androidStudio/openxc/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <string name="brake_pedal_status_label">Brake Pedal</string>
+    <string name="bugsnag_token"/>
+    <!-- From: file:/C:/Users/bhalder/AndroidStudioProjects/openxc-androidStudio/enabler/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="bus_label">Bus</string>
+    <string name="connection_bluetooth">Bluetooth</string>
+    <string name="connection_file">File</string>
+    <string name="connection_network">Network</string>
+    <string name="connection_none">None</string>
+    <string name="connection_usb">USB</string>
+    <string name="data_source_preferences">Data Sources</string>
+    <string name="diag_request_mode_label">Mode (hex)</string>
+    <string name="diag_request_pid_label">PID (hex, optional)</string>
+    <string name="diag_response_label">Responses</string>
+    <!-- From: file:/C:/Users/bhalder/AndroidStudioProjects/openxc-androidStudio/enabler/res/values/vehicle_interfaces.xml -->
+    <eat-comment/>
+    <string name="disabled_interface_option">None</string>
+    <string name="disabled_interface_option_value">none</string>
+    <!-- From: file:/C:/Users/bhalder/AndroidStudioProjects/openxc-androidStudio/enabler/build/intermediates/exploded-aar/openxc-androidStudio/openxc/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <string name="engine_speed_label">Engine Speed</string>
+    <string name="fuel_consumed_since_restart_label">Fuel Consumed</string>
+    <string name="fuel_level_label">Fuel Level</string>
+    <string name="gps_overwrite_checkbox_key">overwrite_native_gps</string>
+    <!-- From: file:/C:/Users/bhalder/AndroidStudioProjects/openxc-androidStudio/enabler/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="gps_overwrite_checkbox_summary">Overwrite Android native GPS values with those from the vehicle (if available)</string>
+    <string name="gps_overwrite_checkbox_title">Overwrite Native GPS</string>
+    <string name="gps_settings">GPS</string>
+    <!-- From: file:/C:/Users/bhalder/AndroidStudioProjects/openxc-androidStudio/enabler/build/intermediates/exploded-aar/openxc-androidStudio/openxc/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <string name="headlamp_status_label">Headlamp</string>
+    <string name="high_beam_status_label">High Beams</string>
+    <string name="ignition_status_label">Ignition Status</string>
+    <!-- From: file:/C:/Users/bhalder/AndroidStudioProjects/openxc-androidStudio/enabler/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="last_can_message_sent_label">Sent Messages</string>
+    <string name="last_diag_request_label">Last Request</string>
+    <!-- From: file:/C:/Users/bhalder/AndroidStudioProjects/openxc-androidStudio/enabler/build/intermediates/exploded-aar/openxc-androidStudio/openxc/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <string name="latitude_label">Latitude</string>
+    <string name="longitude_label">Longitude</string>
+    <!-- From: file:/C:/Users/bhalder/AndroidStudioProjects/openxc-androidStudio/enabler/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="message_count_label">Messages Received</string>
+    <string name="message_id_label">Message ID (hex)</string>
+    <string name="message_payload_label">Payload (hex)</string>
+    <string name="my_message">10</string>
+    <!-- From: file:/C:/Users/bhalder/AndroidStudioProjects/openxc-androidStudio/enabler/build/intermediates/exploded-aar/openxc-androidStudio/openxc/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <string name="native_gps_checkbox_key">use_native_gps</string>
+    <!-- From: file:/C:/Users/bhalder/AndroidStudioProjects/openxc-androidStudio/enabler/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="native_gps_checkbox_summary">For vehicles without a GPS receiver, send the host\'s built-in GPS location instead</string>
+    <string name="native_gps_checkbox_title">Use built-in GPS</string>
+    <!-- From: file:/C:/Users/bhalder/AndroidStudioProjects/openxc-androidStudio/enabler/build/intermediates/exploded-aar/openxc-androidStudio/openxc/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <string name="network_host_key">network_host</string>
+    <!-- From: file:/C:/Users/bhalder/AndroidStudioProjects/openxc-androidStudio/enabler/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="network_host_title">Network host address</string>
+    <!-- From: file:/C:/Users/bhalder/AndroidStudioProjects/openxc-androidStudio/enabler/res/values/vehicle_interfaces.xml -->
+    <eat-comment/>
+    <string name="network_interface_option">Network</string>
+    <string name="network_interface_option_value">network</string>
+    <!-- From: file:/C:/Users/bhalder/AndroidStudioProjects/openxc-androidStudio/enabler/build/intermediates/exploded-aar/openxc-androidStudio/openxc/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <string name="network_port_key">network_port</string>
+    <!-- From: file:/C:/Users/bhalder/AndroidStudioProjects/openxc-androidStudio/enabler/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="network_port_title">Network port</string>
+    <string name="network_settings">Network</string>
+    <string name="no_can_messages_received">No CAN messages received.</string>
+    <string name="no_can_messages_sent">No CAN messages sent.</string>
+    <string name="no_diagnostic_responses_received">No diagnostic responses received.</string>
+    <!-- From: file:/C:/Users/bhalder/AndroidStudioProjects/openxc-androidStudio/enabler/build/intermediates/exploded-aar/openxc-androidStudio/openxc/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <string name="notification_content">Connected to vehicle</string>
+    <string name="odometer_label">Odometer</string>
+    <string name="openxc_name">OpenXC</string>
+    <!-- From: file:/C:/Users/bhalder/AndroidStudioProjects/openxc-androidStudio/enabler/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="output_preferences">Output</string>
+    <!-- From: file:/C:/Users/bhalder/AndroidStudioProjects/openxc-androidStudio/enabler/build/intermediates/exploded-aar/openxc-androidStudio/openxc/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <string name="parking_brake_status_label">Parking Brake</string>
+    <string name="recording_checkbox_key">recording_enabled</string>
+    <!-- From: file:/C:/Users/bhalder/AndroidStudioProjects/openxc-androidStudio/enabler/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="recording_checkbox_summary">Record the vehicle data stream to a file</string>
+    <string name="recording_checkbox_title">Record Trace</string>
+    <!-- From: file:/C:/Users/bhalder/AndroidStudioProjects/openxc-androidStudio/enabler/build/intermediates/exploded-aar/openxc-androidStudio/openxc/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <string name="recording_directory_key">recording_output</string>
+    <!-- From: file:/C:/Users/bhalder/AndroidStudioProjects/openxc-androidStudio/enabler/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="recording_directory_summary">Save recorded traces in this directory</string>
+    <string name="recording_directory_title">Output Directory</string>
+    <string name="recording_preferences">Recording</string>
+    <string name="send_button">Send</string>
+    <string name="service_not_running">VehicleService not running.</string>
+    <string name="settings">Settings</string>
+    <!-- From: file:/C:/Users/bhalder/AndroidStudioProjects/openxc-androidStudio/enabler/build/intermediates/exploded-aar/openxc-androidStudio/openxc/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <string name="steering_wheel_angle_label">Steering Wheel</string>
+    <string name="torque_at_transmission_label">Transmission Torque</string>
+    <!-- From: file:/C:/Users/bhalder/AndroidStudioProjects/openxc-androidStudio/enabler/res/values/vehicle_interfaces.xml -->
+    <eat-comment/>
+    <string name="trace_interface_option">Pre-recorded Trace</string>
+    <string name="trace_interface_option_value">trace</string>
+    <!-- From: file:/C:/Users/bhalder/AndroidStudioProjects/openxc-androidStudio/enabler/build/intermediates/exploded-aar/openxc-androidStudio/openxc/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <string name="trace_source_file_key">playback_trace_file</string>
+    <!-- From: file:/C:/Users/bhalder/AndroidStudioProjects/openxc-androidStudio/enabler/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="trace_source_file_title">Select a trace file for playback</string>
+    <string name="trace_source_settings">Trace file playback</string>
+    <!-- From: file:/C:/Users/bhalder/AndroidStudioProjects/openxc-androidStudio/enabler/build/intermediates/exploded-aar/openxc-androidStudio/openxc/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <string name="transmission_gear_position_label">
+        Transmission Gear
+    </string>
+    <string name="uploading_checkbox_key">uploading_enabled</string>
+    <!-- From: file:/C:/Users/bhalder/AndroidStudioProjects/openxc-androidStudio/enabler/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="uploading_checkbox_summary">Upload the vehicle data stream to a remote web server</string>
+    <string name="uploading_checkbox_title">Upload Trace</string>
+    <!-- From: file:/C:/Users/bhalder/AndroidStudioProjects/openxc-androidStudio/enabler/build/intermediates/exploded-aar/openxc-androidStudio/openxc/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <string name="uploading_path_key">uploading_target</string>
+    <!-- From: file:/C:/Users/bhalder/AndroidStudioProjects/openxc-androidStudio/enabler/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="uploading_path_summary">Send trace data to this URL</string>
+    <string name="uploading_path_title">Target URL</string>
+    <!-- From: file:/C:/Users/bhalder/AndroidStudioProjects/openxc-androidStudio/enabler/res/values/vehicle_interfaces.xml -->
+    <eat-comment/>
+    <string name="usb_interface_option">USB</string>
+    <string name="usb_interface_option_value">usb</string>
+    <string name="vehicle_interface_key">vehicle_interface</string>
+    <string name="vehicle_interface_title">Vehicle Interface</string>
+    <!-- From: file:/C:/Users/bhalder/AndroidStudioProjects/openxc-androidStudio/enabler/build/intermediates/exploded-aar/openxc-androidStudio/openxc/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <string name="vehicle_speed_label">Vehicle Speed</string>
+    <!-- From: file:/C:/Users/bhalder/AndroidStudioProjects/openxc-androidStudio/enabler/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="vi_device_id_label">VI Device ID</string>
+    <string name="vi_version_label">VI Version</string>
+    <!-- From: file:/C:/Users/bhalder/AndroidStudioProjects/openxc-androidStudio/enabler/build/intermediates/exploded-aar/openxc-androidStudio/openxc/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <string name="windshield_wiper_status_label">Windshield Wiper</string>
+    <!-- From: file:/C:/Users/bhalder/AndroidStudioProjects/openxc-androidStudio/enabler/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="DefaultFont" parent="@android:style/TextAppearance.Medium">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">25sp</item>
+    </style>
+    <style name="EnablerFragment">
+        <item name="android:orientation">vertical</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:paddingTop">8sp</item>
+        <item name="android:paddingLeft">16sp</item>
+        <item name="android:paddingRight">16sp</item>
+    </style>
+    <style name="FormInputLabel" parent="ItemText">
+        <item name="android:layout_width">256dp</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="HexTextField">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:imeOptions">actionNext</item>
+        <item name="android:digits">0123456789ABCDEF</item>
+        <item name="android:inputType">textCapCharacters</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">right</item>
+        <item name="android:paddingRight">2dp</item>
+    </style>
+    <style name="ItemData" parent="ItemText">
+        <item name="android:layout_width">0dip</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">right</item>
+        <item name="android:paddingRight">2dp</item>
+    </style>
+    <style name="ItemDataImage">
+        <item name="android:layout_width">26sp</item>
+        <item name="android:layout_height">26sp</item>
+        <item name="android:padding">0sp</item>
+        <item name="android:visibility">gone</item>
+    </style>
+    <style name="ItemDataRedBold" parent="ItemData">
+        <item name="android:textColor">#ED1C1C</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="ItemLabel" parent="ItemText">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="ItemRow">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:layout_margin">1dp</item>
+    </style>
+    <style name="ItemText">
+        <item name="android:textSize">20sp</item>
+    </style>
+    <style name="MinimalButton">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="SectionHeader">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">8sp</item>
+        <item name="android:textSize">25sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="WarningBar">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minHeight">36sp</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+    <style name="WarningImage">
+        <item name="android:layout_width">36sp</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+    <style name="WarningText">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+</resources>

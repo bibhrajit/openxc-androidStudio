@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="unspecified"><source path="C:\Users\bhalder\AndroidStudioProjects\openxc-androidStudio\enabler\build\intermediates\exploded-aar\openxc-androidStudio\openxc\unspecified\assets"/></dataSet><dataSet config="main"><source path="C:\Users\bhalder\AndroidStudioProjects\openxc-androidStudio\enabler\assets"/></dataSet><dataSet config="debug"><source path="C:\Users\bhalder\AndroidStudioProjects\openxc-androidStudio\enabler\build-types\debug\assets"/></dataSet></merger>

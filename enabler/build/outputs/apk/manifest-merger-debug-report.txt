@@ -1,0 +1,164 @@
+-- Merging decision tree log ---
+manifest
+ADDED from AndroidManifest.xml:2:1
+	xmlns:android
+		ADDED from AndroidManifest.xml:2:11
+	package
+		ADDED from AndroidManifest.xml:2:128
+	android:versionName
+		ADDED from AndroidManifest.xml:2:100
+	android:versionCode
+		ADDED from AndroidManifest.xml:2:70
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from AndroidManifest.xml:4:3
+	android:name
+		ADDED from AndroidManifest.xml:4:20
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from AndroidManifest.xml:5:3
+	android:name
+		ADDED from AndroidManifest.xml:5:20
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from AndroidManifest.xml:6:3
+MERGED from openxc-androidStudio:openxc:unspecified:12:5
+	android:name
+		ADDED from AndroidManifest.xml:6:20
+uses-permission#android.permission.ACCESS_MOCK_LOCATION
+ADDED from AndroidManifest.xml:7:3
+MERGED from openxc-androidStudio:openxc:unspecified:11:5
+	android:name
+		ADDED from AndroidManifest.xml:7:20
+uses-permission#android.permission.INTERNET
+ADDED from AndroidManifest.xml:8:3
+	android:name
+		ADDED from AndroidManifest.xml:8:20
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from AndroidManifest.xml:9:3
+	android:name
+		ADDED from AndroidManifest.xml:9:20
+uses-permission#android.permission.WAKE_LOCK
+ADDED from AndroidManifest.xml:10:3
+	android:name
+		ADDED from AndroidManifest.xml:10:20
+uses-permission#android.permission.BLUETOOTH
+ADDED from AndroidManifest.xml:11:3
+	android:name
+		ADDED from AndroidManifest.xml:11:20
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from AndroidManifest.xml:12:3
+	android:name
+		ADDED from AndroidManifest.xml:12:20
+uses-feature#android.hardware.usb.host
+ADDED from AndroidManifest.xml:13:3
+	android:required
+		ADDED from AndroidManifest.xml:13:58
+	android:name
+		ADDED from AndroidManifest.xml:13:17
+uses-sdk
+ADDED from AndroidManifest.xml:14:3
+MERGED from openxc-androidStudio:openxc:unspecified:7:5
+	android:targetSdkVersion
+		ADDED from AndroidManifest.xml:14:40
+	android:minSdkVersion
+		ADDED from AndroidManifest.xml:14:13
+application
+ADDED from AndroidManifest.xml:16:3
+	android:label
+		ADDED from AndroidManifest.xml:16:96
+	android:allowBackup
+		ADDED from AndroidManifest.xml:16:16
+	android:icon
+		ADDED from AndroidManifest.xml:16:43
+service#com.openxc.enabler.preferences.PreferenceManagerService
+ADDED from AndroidManifest.xml:17:7
+	android:name
+		ADDED from AndroidManifest.xml:17:16
+service#com.openxc.VehicleManager
+ADDED from AndroidManifest.xml:18:7
+	android:name
+		ADDED from AndroidManifest.xml:18:16
+service#com.openxc.remote.VehicleService
+ADDED from AndroidManifest.xml:19:7
+	android:process
+		ADDED from AndroidManifest.xml:19:64
+	android:name
+		ADDED from AndroidManifest.xml:19:16
+intent-filter#com.openxc.remote.VehicleService
+ADDED from AndroidManifest.xml:20:11
+action#com.openxc.remote.VehicleService
+ADDED from AndroidManifest.xml:21:15
+	android:name
+		ADDED from AndroidManifest.xml:21:23
+activity#com.openxc.enabler.OpenXcEnablerActivity
+ADDED from AndroidManifest.xml:25:7
+	android:name
+		ADDED from AndroidManifest.xml:25:49
+	android:launchMode
+		ADDED from AndroidManifest.xml:25:17
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:26:11
+action#android.intent.action.MAIN
+ADDED from AndroidManifest.xml:27:15
+	android:name
+		ADDED from AndroidManifest.xml:27:23
+category#android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:28:15
+	android:name
+		ADDED from AndroidManifest.xml:28:25
+activity#com.openxc.enabler.SettingsActivity
+ADDED from AndroidManifest.xml:32:7
+	android:name
+		ADDED from AndroidManifest.xml:32:17
+activity#com.openxc.enabler.CanMessageDetailActivity
+ADDED from AndroidManifest.xml:33:7
+	android:name
+		ADDED from AndroidManifest.xml:33:17
+activity#com.openxc.interfaces.usb.UsbDeviceAttachmentActivity
+ADDED from AndroidManifest.xml:35:7
+	android:name
+		ADDED from AndroidManifest.xml:35:17
+intent-filter#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from AndroidManifest.xml:36:13
+action#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from AndroidManifest.xml:37:17
+	android:name
+		ADDED from AndroidManifest.xml:37:25
+meta-data#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from AndroidManifest.xml:40:13
+	android:resource
+		ADDED from AndroidManifest.xml:40:87
+	android:name
+		ADDED from AndroidManifest.xml:40:24
+receiver#com.openxc.enabler.BootupReceiver
+ADDED from AndroidManifest.xml:43:7
+	android:name
+		ADDED from AndroidManifest.xml:43:17
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from AndroidManifest.xml:44:11
+action#android.intent.action.BOOT_COMPLETED
+ADDED from AndroidManifest.xml:45:15
+	android:name
+		ADDED from AndroidManifest.xml:45:23
+receiver#com.openxc.enabler.BluetoothReceiver
+ADDED from AndroidManifest.xml:49:7
+	android:name
+		ADDED from AndroidManifest.xml:49:17
+intent-filter#android.bluetooth.device.action.ACL_CONNECTED
+ADDED from AndroidManifest.xml:50:11
+action#android.bluetooth.device.action.ACL_CONNECTED
+ADDED from AndroidManifest.xml:51:15
+	android:name
+		ADDED from AndroidManifest.xml:51:23
+intent-filter#android.bluetooth.device.action.ACL_DISCONNECTED
+ADDED from AndroidManifest.xml:53:11
+action#android.bluetooth.device.action.ACL_DISCONNECTED
+ADDED from AndroidManifest.xml:54:15
+	android:name
+		ADDED from AndroidManifest.xml:54:23
+meta-data#com.bugsnag.token
+ADDED from AndroidManifest.xml:57:7
+	android:name
+		ADDED from AndroidManifest.xml:57:18
+	android:value
+		ADDED from AndroidManifest.xml:57:51

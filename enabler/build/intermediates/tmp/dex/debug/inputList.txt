@@ -1,0 +1,9 @@
+C:\Users\bhalder\AndroidStudioProjects\openxc-androidStudio\enabler\build\intermediates\classes\debug
+C:\Users\bhalder\AndroidStudioProjects\openxc-androidStudio\enabler\build\intermediates\pre-dexed\debug\bugsnag-android-2.2.3-d2ae682d1472cf822cb903e98d5cd4a3576447bf.jar
+C:\Users\bhalder\AndroidStudioProjects\openxc-androidStudio\enabler\build\intermediates\pre-dexed\debug\gson-2.3-eeec593efd9d0f928bf4390ec85dfdccf403febf.jar
+C:\Users\bhalder\AndroidStudioProjects\openxc-androidStudio\enabler\build\intermediates\pre-dexed\debug\commons-io-2.4-f32c934b21b88204d03681833188936d8bc2c606.jar
+C:\Users\bhalder\AndroidStudioProjects\openxc-androidStudio\enabler\build\intermediates\pre-dexed\debug\junit-4.12-beta-2-ff967145d124ab58acd1232c5f0543d933890cd1.jar
+C:\Users\bhalder\AndroidStudioProjects\openxc-androidStudio\enabler\build\intermediates\pre-dexed\debug\classes-54dacba00efad915baa64ce8ec0251e462c439c6.jar
+C:\Users\bhalder\AndroidStudioProjects\openxc-androidStudio\enabler\build\intermediates\pre-dexed\debug\protobuf-java-2.6.1-b9d7b2e544c9e1bf5c669f36ec789ff56637383c.jar
+C:\Users\bhalder\AndroidStudioProjects\openxc-androidStudio\enabler\build\intermediates\pre-dexed\debug\support-v4-19.1.0-b963a826cb02bdad6b73442485fe0c50ad13af4d.jar
+C:\Users\bhalder\AndroidStudioProjects\openxc-androidStudio\enabler\build\intermediates\pre-dexed\debug\guava-18.0-4de84951e8085f2f685e2e651d374aaaf7e96ce5.jar
