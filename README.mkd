@@ -24,14 +24,7 @@ Android Studio is now the official IDE for Android, so migrate to Android Studio
 
 Download Android Studio compatible openxc-android source code: Get the openxc-androidStudio source code. After getting the openxc-androidStudio code, open Android Studio and select 'Open an existing Android Studio Project' and navigate to openxc-androidStudio folder you downloaded. Android Studio should detect the Gradle project within the folder. Select openxc-androidStudio Gradle and click OK. It might take several minutes to build the project. Once the build is complete and there is no error message then you are ready to start working with OpenXC in Android Studio.
 
-## Building from Eclipse
 
-After cloning the `openxc-android` repository to your local disk, open Eclipse
-and go to `File -> New -> Other -> Android -> Android Project from Existing
-Source`. Browse to the `openxc-android` folder and it should detect the 4
-Android projects within the repository. At the minimum, add the `openxc` project
-(the Android library itself) and `OpenXcEnablerActivity` (the Enabler app,
-required to run OpenXC applications).
 
 ## Tests
 
