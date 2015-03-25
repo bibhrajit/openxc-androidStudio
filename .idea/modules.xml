@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/enabler/enabler.iml" filepath="$PROJECT_DIR$/enabler/enabler.iml" />
       <module fileurl="file://$PROJECT_DIR$/openxc/openxc.iml" filepath="$PROJECT_DIR$/openxc/openxc.iml" />
-      <module fileurl="file://$PROJECT_DIR$/openxc-android-master.iml" filepath="$PROJECT_DIR$/openxc-android-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openxc-androidStudio.iml" filepath="$PROJECT_DIR$/openxc-androidStudio.iml" />
     </modules>
   </component>
 </project>

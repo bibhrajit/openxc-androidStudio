@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: C:\\Users\\bhalder\\AndroidStudioProjects\\openxc-android-master\\openxc\\src\\com\\openxc\\remote\\VehicleServiceInterface.aidl
+ * Original file: C:\\Users\\bhalder\\AndroidStudioProjects\\openxc-androidStudio\\openxc\\src\\com\\openxc\\remote\\VehicleServiceInterface.aidl
  */
 package com.openxc.remote;
 /**

@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="debug"><source path="C:\Users\bhalder\AndroidStudioProjects\openxc-android-master\openxc\build\intermediates\bundles\debug\assets"/></dataSet><dataSet config="main"><source path="C:\Users\bhalder\AndroidStudioProjects\openxc-android-master\openxc\src\androidTest\assets"/></dataSet></merger>
+<merger version="3"><dataSet config="debug"><source path="C:\Users\bhalder\AndroidStudioProjects\openxc-androidStudio\openxc\build\intermediates\bundles\debug\assets"/></dataSet><dataSet config="main"><source path="C:\Users\bhalder\AndroidStudioProjects\openxc-androidStudio\openxc\src\androidTest\assets"/></dataSet></merger>

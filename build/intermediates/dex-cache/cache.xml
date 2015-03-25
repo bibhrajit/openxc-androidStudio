@@ -12,22 +12,15 @@
         jar="C:\Users\bhalder\AndroidStudioProjects\openxc-androidStudio\enabler\build\intermediates\exploded-aar\openxc-androidStudio\openxc\unspecified\classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="11c57f639eed46a63066b4efe6caf68818bf025a">
+        sha1="2460599ce14ec50adccb99bd17e381664e6ef41e">
         <dex dex="C:\Users\bhalder\AndroidStudioProjects\openxc-androidStudio\enabler\build\intermediates\pre-dexed\debug\classes-54dacba00efad915baa64ce8ec0251e462c439c6.jar" />
     </item>
     <item
-        jar="C:\Users\bhalder\AndroidStudioProjects\openxc-android-master\enabler\build\intermediates\exploded-aar\openxc-android-master\openxc\unspecified\libs\junit-4.12-beta-2.jar"
+        jar="C:\Users\bhalder\AndroidStudioProjects\openxc-androidStudio\enabler\libs\support-v4-19.1.0.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="eb899c93c162058b6ae990e7e279507803edd1fb">
-        <dex dex="C:\Users\bhalder\AndroidStudioProjects\openxc-android-master\enabler\build\intermediates\pre-dexed\debug\junit-4.12-beta-2-0264fe241c61c5eae3eba1b3006f12c58051800f.jar" />
-    </item>
-    <item
-        jar="C:\Users\bhalder\AndroidStudioProjects\openxc-android-master\enabler\build\intermediates\exploded-aar\openxc-android-master\openxc\unspecified\libs\protobuf-java-2.6.1.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="d9521f2aecb909835746b7a5facf612af5e890e8">
-        <dex dex="C:\Users\bhalder\AndroidStudioProjects\openxc-android-master\enabler\build\intermediates\pre-dexed\debug\protobuf-java-2.6.1-6796ae968e5b7f6ac0547c3d7f144cb0d99cdeb9.jar" />
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\bhalder\AndroidStudioProjects\openxc-androidStudio\enabler\build\intermediates\pre-dexed\debug\support-v4-19.1.0-b963a826cb02bdad6b73442485fe0c50ad13af4d.jar" />
     </item>
     <item
         jar="C:\Users\bhalder\AndroidStudioProjects\openxc-androidStudio\enabler\build\intermediates\exploded-aar\openxc-androidStudio\openxc\unspecified\libs\junit-4.12-beta-2.jar"
@@ -37,18 +30,18 @@
         <dex dex="C:\Users\bhalder\AndroidStudioProjects\openxc-androidStudio\enabler\build\intermediates\pre-dexed\debug\junit-4.12-beta-2-ff967145d124ab58acd1232c5f0543d933890cd1.jar" />
     </item>
     <item
-        jar="C:\Users\bhalder\AndroidStudioProjects\openxc-android-master\enabler\build\intermediates\exploded-aar\openxc-android-master\openxc\unspecified\libs\guava-18.0.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="cce0823396aa693798f8882e64213b1772032b09">
-        <dex dex="C:\Users\bhalder\AndroidStudioProjects\openxc-android-master\enabler\build\intermediates\pre-dexed\debug\guava-18.0-794435a267af1fd65028c5d8e3ab39d468daf608.jar" />
-    </item>
-    <item
         jar="C:\Users\bhalder\AndroidStudioProjects\openxc-androidStudio\enabler\build\intermediates\exploded-aar\openxc-androidStudio\openxc\unspecified\libs\guava-18.0.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="cce0823396aa693798f8882e64213b1772032b09">
         <dex dex="C:\Users\bhalder\AndroidStudioProjects\openxc-androidStudio\enabler\build\intermediates\pre-dexed\debug\guava-18.0-4de84951e8085f2f685e2e651d374aaaf7e96ce5.jar" />
+    </item>
+    <item
+        jar="C:\Users\bhalder\AndroidStudioProjects\openxc-androidStudio\enabler\build\intermediates\exploded-aar\openxc-androidStudio\openxc\unspecified\libs\gson-2.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="C:\Users\bhalder\AndroidStudioProjects\openxc-androidStudio\enabler\build\intermediates\pre-dexed\debug\gson-2.3-eeec593efd9d0f928bf4390ec85dfdccf403febf.jar" />
     </item>
     <item
         jar="C:\Users\bhalder\AndroidStudioProjects\openxc-androidStudio\enabler\build\intermediates\exploded-aar\openxc-androidStudio\openxc\unspecified\libs\commons-io-2.4.jar"
@@ -63,55 +56,6 @@
         revision="21.1.2"
         sha1="d9521f2aecb909835746b7a5facf612af5e890e8">
         <dex dex="C:\Users\bhalder\AndroidStudioProjects\openxc-androidStudio\enabler\build\intermediates\pre-dexed\debug\protobuf-java-2.6.1-b9d7b2e544c9e1bf5c669f36ec789ff56637383c.jar" />
-    </item>
-    <item
-        jar="C:\Users\bhalder\AndroidStudioProjects\openxc-android-master\enabler\build\intermediates\exploded-aar\openxc-android-master\openxc\unspecified\libs\gson-2.3.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
-        <dex dex="C:\Users\bhalder\AndroidStudioProjects\openxc-android-master\enabler\build\intermediates\pre-dexed\debug\gson-2.3-d528c6348331146ce5fc571316156a4715698a9c.jar" />
-    </item>
-    <item
-        jar="C:\Users\bhalder\AndroidStudioProjects\openxc-android-master\enabler\libs\bugsnag-android-2.2.3.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="d3a062284715719080ab05a216497725e4ed75a6">
-        <dex dex="C:\Users\bhalder\AndroidStudioProjects\openxc-android-master\enabler\build\intermediates\pre-dexed\debug\bugsnag-android-2.2.3-6377f2a65d673f4a039b99c9eed3decf2bd86353.jar" />
-    </item>
-    <item
-        jar="C:\Users\bhalder\AndroidStudioProjects\openxc-android-master\enabler\libs\support-v4-19.1.0.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
-        <dex dex="C:\Users\bhalder\AndroidStudioProjects\openxc-android-master\enabler\build\intermediates\pre-dexed\debug\support-v4-19.1.0-925acd30b04b871a498152cd57a50849eb4b013e.jar" />
-    </item>
-    <item
-        jar="C:\Users\bhalder\AndroidStudioProjects\openxc-androidStudio\enabler\libs\support-v4-19.1.0.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
-        <dex dex="C:\Users\bhalder\AndroidStudioProjects\openxc-androidStudio\enabler\build\intermediates\pre-dexed\debug\support-v4-19.1.0-b963a826cb02bdad6b73442485fe0c50ad13af4d.jar" />
-    </item>
-    <item
-        jar="C:\Users\bhalder\AndroidStudioProjects\openxc-android-master\enabler\build\intermediates\exploded-aar\openxc-android-master\openxc\unspecified\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="69db76e508d77e0fb7e1742a5af833f9d6076ae6">
-        <dex dex="C:\Users\bhalder\AndroidStudioProjects\openxc-android-master\enabler\build\intermediates\pre-dexed\debug\classes-280424647ee72b5fcab8e6a8f6a96c3608a812d5.jar" />
-    </item>
-    <item
-        jar="C:\Users\bhalder\AndroidStudioProjects\openxc-androidStudio\enabler\build\intermediates\exploded-aar\openxc-androidStudio\openxc\unspecified\libs\gson-2.3.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
-        <dex dex="C:\Users\bhalder\AndroidStudioProjects\openxc-androidStudio\enabler\build\intermediates\pre-dexed\debug\gson-2.3-eeec593efd9d0f928bf4390ec85dfdccf403febf.jar" />
-    </item>
-    <item
-        jar="C:\Users\bhalder\AndroidStudioProjects\openxc-android-master\enabler\build\intermediates\exploded-aar\openxc-android-master\openxc\unspecified\libs\commons-io-2.4.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
-        <dex dex="C:\Users\bhalder\AndroidStudioProjects\openxc-android-master\enabler\build\intermediates\pre-dexed\debug\commons-io-2.4-40f2942d41ef2911cd21d9ba623be83fa7fc9b9c.jar" />
     </item>
 
 </items>

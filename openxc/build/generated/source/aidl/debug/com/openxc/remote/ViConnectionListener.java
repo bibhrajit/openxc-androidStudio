@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: C:\\Users\\bhalder\\AndroidStudioProjects\\openxc-android-master\\openxc\\src\\com\\openxc\\remote\\ViConnectionListener.aidl
+ * Original file: C:\\Users\\bhalder\\AndroidStudioProjects\\openxc-androidStudio\\openxc\\src\\com\\openxc\\remote\\ViConnectionListener.aidl
  */
 package com.openxc.remote;
 public interface ViConnectionListener extends android.os.IInterface
